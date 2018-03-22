@@ -1,7 +1,5 @@
 apply plugin: 'com.android.library'
 
-group='com.github.rgreen88'
-
 android {
     compileSdkVersion 26
 
